@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hello and welcome to my blog, here I will post about my little side projects and other stuff I find interesting.
