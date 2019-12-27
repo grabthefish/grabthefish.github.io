@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The only reason you would be on this page is if you would want to know more about me, I wouldn't know why.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Anyway I'm Gunther, ~~known~~ unknown online as grabthefish.  
+In my day job I'm a C#/.NET developer based in Belgium.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In my spare time I like to game, start and abandon projects, read books, ...  
+In fact the name of this blog is inspired by a book.
 
-
-[jekyll-organization]: https://github.com/jekyll
+The kind of content you could expect on this blog is... whatever I feel like posting about. That could range from software development to cooking to pet keeping. Sooo yeah a wide variety.
