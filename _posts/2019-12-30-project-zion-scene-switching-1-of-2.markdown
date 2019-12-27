@@ -2,7 +2,7 @@
 layout: post
 title:  "Scene switching in Project Zion 1/2"
 tags: godot devlog project-zion
-date:   2019-12-27 15:00:00 +0100
+date:   2019-12-30 15:00:00 +0100
 ---
 
 A Godot game typically consists of multiple [scenes](https://docs.godotengine.org/en/3.1/getting_started/step_by_step/scenes_and_nodes.html). These scenes can contain multiple nodes and logic. You could for example have a scene for the main menu, for each town/map, for battles/fights, ...  
